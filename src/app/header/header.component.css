@@ -1,0 +1,15 @@
+.router-link-active {
+  background-color: #e7e7e7;
+  color: #555;
+  font-weight: bold;
+}
+
+nav{
+
+  box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.33);
+}
+
+.navbar-brand{
+
+  margin-right: 2rem;
+}
